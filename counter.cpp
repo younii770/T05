@@ -6,7 +6,7 @@ main()
 {
 	int i=0,word=1;
 	char str[100],ch;
-	cout<<"please enter a string:";
+	cout<<"Please enter a string:";
 gets(str);
 	while(true)
 	{
